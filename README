@@ -1,0 +1,30 @@
+# OS Projects
+
+A collection of operating systems related projects implemented in Go.
+
+## About
+
+This repository contains various projects exploring fundamental operating system concepts and implementations. These projects demonstrate practical applications of OS principles including process management, concurrency, synchronization, and system-level programming.
+
+## Technologies
+
+- **Language**: Go (Golang)
+- **Focus Areas**: Operating system concepts and system programming
+
+## Learning Objectives
+
+These projects explore core operating system concepts including:
+- Process and thread management
+- Concurrency and synchronization
+- Memory management
+- File systems
+- Inter-process communication
+- Scheduling algorithms
+
+## Contributing
+
+This is a personal learning repository, but suggestions and feedback are welcome!
+
+## Author
+
+Rohit D - [GitHub](https://github.com/rohitd3)
