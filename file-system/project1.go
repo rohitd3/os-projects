@@ -1,9 +1,3 @@
-// Project 1
-// File System
-// Rohit De
-// rde1
-// 30271270
-
 package main
 
 import (
